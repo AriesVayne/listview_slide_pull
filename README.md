@@ -1,0 +1,2 @@
+# listview_slide_pull
+Andorid使用ListView实现的支持下拉刷新,上滑追加的自定义组件,在原作者基础上修改了手指在屏幕操作时总是触发item的bug
